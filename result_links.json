@@ -1,6 +1,24 @@
 {
-  "url_psc": "https://www.educationboardresults.gov.bd/",
-  "url_ssc": "https://www.educationboardresults.gov.bd/",
-  "url_nu": "https://results.nu.ac.bd/",
-  "url_open": "https://result.bou.ac.bd/"
+  "updatedAt": "2026-09-30",
+  "exams": {
+    "ssc": [
+      "https://www.educationboardresults.gov.bd/",
+      "https://eboardresults.com/v2/home",
+      "http://www.educationboard.gov.bd/",
+      "http://oldweb.teletalk.com.bd/",
+      "http://103.230.104.203/",
+      "http://103.230.107.235/",
+      "http://103.230.107.233/",
+      "http://103.230.104.222/"
+    ],
+    "psc": [
+      "https://www.educationboardresults.gov.bd/"
+    ],
+    "nu": [
+      "https://results.nu.ac.bd/"
+    ],
+    "open": [
+      "https://result.bou.ac.bd/"
+    ]
+  }
 }
