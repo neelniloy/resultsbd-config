@@ -5,7 +5,13 @@
   "exams": {
     "ssc": [
       "https://www.educationboardresults.gov.bd/",
-      "https://eboardresults.com/v2/home"
+      "https://eboardresults.com/v2/home",
+      "http://www.educationboard.gov.bd/",
+      "http://oldweb.teletalk.com.bd/",
+      "http://103.230.104.203/",
+      "http://103.230.107.235/",
+      "http://103.230.107.233/",
+      "http://103.230.104.222/"
     ],
     "psc": [
       "https://ipemis.dpe.gov.bd/scholarship-results",
